@@ -1,0 +1,11 @@
+create Folder react app
+
+
+>npm install --global create-react-app
+
+
+>npx create-react-app anyProjectname
+
+>cd projectname
+
+>npm start
